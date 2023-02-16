@@ -53,8 +53,7 @@ def main():
     vscode_message += "distress among the moral and upstanding citizens of the GPRSC.\n"
     vscode_message += "As such, you will be sent to joycamp. It is there where you will\n"
     vscode_message += "learn that vim is the only viable option when it comes to writing code.\n"
-    vscode_message += "The deception of your Professors only furthers the shame you bring to the GPRSC"
-    vscode_message += "\n"
+    vscode_message += "The deception of your Professors only furthers the shame you bring to the GPRSC\n"
     vscode_message += "All praise vim"
 
     @client.event
